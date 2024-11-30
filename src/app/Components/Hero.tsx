@@ -11,7 +11,7 @@ const Hero = () => {
   <div className="container mx-auto flex px-5 py-24 md:flex-row flex-col items-center">
     <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
     
-      <h1 className="title-font sm:text-4xl text-3xl  font-medium text-blue-600  mb-10">Before they sold out
+      <h1 className="title-font sm:text-4xl text-3xl  font-medium text-red-700  mb-10">Before they sold out
        <span className='text-black text-2xl font-bold mt-32 '>
        <TypewriterComponent strings={['Summer Collection', 'Winter Collection', 'New Arrival','12.12 Sale']} />
 </span>
